@@ -7,7 +7,7 @@ Hypertext Markup Language
 ## TEXT EDITOR
 Notepad vs VSCode
 
-***hello.html***
+**hello.html**
 ```html
   <html>
   <head>
@@ -20,3 +20,21 @@ Notepad vs VSCode
   </body>
   </html>
 ```
+
+__Creating HTML File__
+1. Create  a Folder ###### HTML
+2. Create a file ###### index.html
+3. ```html
+   Hello World!
+   ```
+4. Basic Skeleton Of HTML File
+  ```html
+     <!DOCTYPE html>
+     <html>
+       
+     </html>
+   ```
+HTML Document
+<html></html>   Html Tag, Necessary for any html file
+<head></head>    Data About the document, like title,discription,image,link etc
+<body></body>
