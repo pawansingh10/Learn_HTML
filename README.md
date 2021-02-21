@@ -22,8 +22,8 @@ Notepad vs VSCode
 ```
 
 __Creating HTML File__
-1. Create  a Folder ###### HTML
-2. Create a file ###### index.html
+1. Create  a Folder __HTML__
+2. Create a file __index.html__
 3. ```html
    Hello World!
    ```
