@@ -7,7 +7,7 @@ Hypertext Markup Language
 ## TEXT EDITOR
 Notepad vs VSCode
 
-'''
+---javascript
   <html>
   <head>
     <meta charset="UTF-8">
