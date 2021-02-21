@@ -7,7 +7,8 @@ Hypertext Markup Language
 ## TEXT EDITOR
 Notepad vs VSCode
 
-```python
+***hello.html***
+```html
   <html>
   <head>
     <meta charset="UTF-8">
