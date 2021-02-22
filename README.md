@@ -90,11 +90,17 @@ Basic common HTML Tags:-
    Basic Styling and set backround color to html elements
    ```
    <p style="color:blue;">  Applying color to paragraph.</p>
+   
    <p style="background-color:red;">  Setting Background color</p>
+   
+   <body style="color:red;">   </body>
+   
+   <h1 style="background-color:lightblue;">Our Websites</h1>
    ```
    
    > **Styling HTML, We learn CSS Cascading Style Sheet later on.**
    
+   [HTML](https://www.w3schools.com/html/)
    
    
    
