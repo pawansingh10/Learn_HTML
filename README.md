@@ -100,7 +100,7 @@ Basic common HTML Tags:-
    
    > **Styling HTML, We learn CSS Cascading Style Sheet later on.**
    
-   [HTML](https://www.w3schools.com/html/)
+   [Learn HTML](https://www.w3schools.com/html/ "link")
    
    
    
