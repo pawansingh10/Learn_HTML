@@ -183,3 +183,19 @@ Basic common HTML Tags:-
       h1
    ```
    
+## Links
+Using Links in HTML
+* A Link is one of the most popular HTML Element, used to link a website to another website on the Intenet
+Example- google.com
+         linkedin.com
+         another page of our own website
+* Links are also used to link Navigational List, images, pdf etc
+
+```
+   <a href="https://www.google.com"> Google Home Page</a>
+```
+
+When you do not want to redirect on that given link
+```
+<a href="https://www.google.com" target="_blank">Google</a>
+```
