@@ -66,9 +66,10 @@ Basic common HTML Tags:-
    <p>Welcome TO <b>HTML</b></p>
    <br/>  break tag, used for space
    <hr/> hrizontal role tag, basically give us a straight line that helps to seperate contents on websites
-   big> </big>
-   small> <small/> using big nad small tag we can controll our text size
-   <sub></sub> subscript tag H2O-->H^2O
+   <big> </big>
+   <small> <small/> using big nad small tag we can controll our text size
+   <sub></sub> subscript tag H2O (Water)
+   <sup> </sup> superscript tag 10^2 (100)
    </body>
    ```
    * **Order of Tags Matters in body Tag** The way we order tags, render by the browsers
