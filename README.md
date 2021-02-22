@@ -71,7 +71,7 @@ Basic common HTML Tags:-
    <sub></sub> subscript tag H2O-->H^2O
    </body>
    ```
-   **Order of Tags Matters in body Tag** The way we order tags, render by the browsers
-   **HTML doesn't care about white space** because it's only care out what is inside in their tags
-   **Single Tag** that has only one tag like <br/>, <hr/>
+   * **Order of Tags Matters in body Tag** The way we order tags, render by the browsers
+   * **HTML doesn't care about white space** because it's only care out what is inside in their tags
+   * **Single Tag** that has only one tag like <br/>, <hr/>
    
