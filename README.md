@@ -136,7 +136,9 @@ Basic common HTML Tags:-
                           <h2></h2>     
                      </section>
                      <section>
-                          <h2></h2>
+                          <aside>
+                              <!-- Thhis content is on the page & getting shown to the users but it's not directly related to core content-->
+                          </aside>
                      </section>
                 </article>
           
@@ -148,6 +150,24 @@ Basic common HTML Tags:-
          
       </body>
    ```
+   ***
+   * **Side Tag**, basically a tag that does not directly related to main content of webpage
+     Example- **Advertisement** like google adsense
+   ***
+   
+  **Advantages of Using the Specific HTMl Tags**
+  * Look and Feel
+  * separate Section of websites.
+  * Organised Code for anyone from the Organization use it.
+  * Readability, easy to read the file
+  * Structure the skeleton of website
+  * Search Engine Optimization, when we use these html tags google could easily going to our file and figure-out where are the different sections.\
+    Google can use this information to display website better.
+
+  > **Search Engine Optimization**, basically how your websites is viewed by a search engines.
+    Like Google
+  > **Don't Ingnore the power of HTML Tags**
+  
    Best Practice to define tag hierarchy
    ```
       h1
