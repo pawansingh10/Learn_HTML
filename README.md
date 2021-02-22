@@ -85,4 +85,16 @@ Basic common HTML Tags:-
            -->```
    > Note:- **COMMENTS, The best practice of Writing Code!** 
    
+   ## Style & Color
+   We can style HTML elements using **style** attributes through styling information
+   Basic Styling and set backround color to html elements
+   ```
+   <p style="color:blue;">  Applying color to paragraph.</p>
+   <p style="background-color:red;">  Setting Background color</p>
+   ```
+   
+   > **Styling HTML, We learn CSS Cascading Style Sheet later on.**
+   
+   
+   
    
