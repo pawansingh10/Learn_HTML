@@ -195,7 +195,18 @@ Example- google.com
    <a href="https://www.google.com"> Google Home Page</a>
 ```
 
-When you do not want to redirect on that given link
+* When you do not want to redirect on that given link and open it up in new tab
 ```
-<a href="https://www.google.com" target="_blank">Google</a>
+<a href="https://www.google.com" target="_blank"> Google </a>
 ```
+> Websites are not of a single webpage, Every websites has a number of webpages.
+
+* Link to another pages of our websites
+  Like: index.html
+        contact.html
+        about.html
+        page2.html
+ ```
+   <a href="about.html"> About Us </a>
+ ```
+ **Here we only mention the file name because browsers already know this file is in the same directory.**
