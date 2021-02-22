@@ -4,7 +4,8 @@ Hypertext Markup Language
 * HTML Tags
 * ".html" file Extension
 
- ## HTML
+ ## HTML Introduction
+ 
  __TEXT EDITOR__
 Notepad vs VSCode
 
@@ -59,16 +60,16 @@ Basic common HTML Tags:-
 2. Body Tag, All the stuff we see on the websites generally inside body tag
    ```
    <body>
-   <h1>This is the Header</h2>  header tag, Header(h1,h2,h3,h4,h5,h6) of our website
-   <p>This is paragraph</p>  paragraph tag, some text on websites
-   <b></b>   bold tag, style text as BOLD
-   <i></i>   itallic tag, style text as *itallic*
-   <p>Welcome TO <b>HTML</b></p>
+   <h1> This is the Header</h2>  header tag, Header(h1,h2,h3,h4,h5,h6) of our website
+   <p> This is paragraph</p>  paragraph tag, some text on websites
+   <b> </b>   bold tag, style text as BOLD
+   <i> </i>   itallic tag, style text as *itallic*
+   <p> Welcome TO <b>HTML</b></p>
    <br/>  break tag, used for space
    <hr/> hrizontal role tag, basically give us a straight line that helps to seperate contents on websites
    <big> </big>
    <small> <small/> using big nad small tag we can controll our text size
-   <sub></sub> subscript tag H2O (Water)
+   <sub> </sub> subscript tag H2O (Water)
    <sup> </sup> superscript tag 10^2 (100)
    </body>
    ```
@@ -76,3 +77,6 @@ Basic common HTML Tags:-
    * **HTML doesn't care about white space** because it's only care out what is inside in their tags
    * **Single Tag** that has only one tag like <br/>, <hr/>
    
+   ## HTML Comments
+   
+   - [x] HTML Comments are basically like Texts which is ignore by the Browers. 
