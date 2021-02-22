@@ -57,7 +57,8 @@ Basic common HTML Tags:-
    <meta name="description" content="This website do something for you">
    __Attributes or Properties__
 2. Body Tag, All the stuff we see on the websites generally inside body tag
-    <body>
+   ```
+   <body>
    <h1>This is the Header</h2>  header tag, Header(h1,h2,h3,h4,h5,h6) of our website
    <p>This is paragraph</p>  paragraph tag, some text on websites
    <b></b>   bold tag, style text as BOLD
@@ -69,6 +70,7 @@ Basic common HTML Tags:-
    small> <small/> using big nad small tag we can controll our text size
    <sub></sub> subscript tag H2O-->H^2O
    </body>
+   ```
    **Order of Tags Matters in body Tag** The way we order tags, render by the browsers
    **HTML doesn't care about white space** because it's only care out what is inside in their tags
    **Single Tag** that has only one tag like <br/>, <hr/>
