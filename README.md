@@ -114,12 +114,58 @@ Basic common HTML Tags:-
    
    > ***Using Right tags at Right Place is Important.***
    
-   - [x] 1.__Header__ || Every websites has a header like **Website Name, Logo, Navigation Menu, Links**
-   - [x] 2.__Main Section__ || Back-Bone, All the contents like **Article, Sections, Images** 
-   - [x] 3.__Footer__ || Websites has also a footer like **Navigation link, Copyright Info, Social-Media links**
+   - [x] 1. __Header__ || Every websites has a header like **Website Name, Logo, Navigation Menu, Links**
+   - [x] 2. __Main Section__ || Back-Bone, All the contents like **Article, Sections, Images** 
+   - [x] 3. __Footer__ || Websites has also a footer like **Navigation link, Copyright Info, Social-Media links**
    
    ***
    **HTML has tags used to define all of these Header, Main and Footer**
    ***
-   
+   ```
+      <body>
+          <header>
+                 <nav>
+                       <!-- Naviagational Link, Naviagtional List Navigational Image/Logo-->
+                       
+                 </nav>
+          </header>
+          
+          <main>
+                <article>
+                     <section>
+                          <h2></h2>     
+                     </section>
+                     <section>
+                          <h2></h2>
+                     </section>
+                </article>
+          
+          </main>
+         
+          <footer>
+         
+          </footer>
+         
+      </body>
+   ```
+   Best Practice to define tag hierarchy
+   ```
+      <h1>
+         <h2>
+             <h3>
+                <h4>
+                    <h5>
+                       <h6></h6>
+                    </h5>
+                </h4>
+             </h3>
+             <h3>
+             
+             </h3>
+         </h2>
+         <h2>
+         
+         </h2>
+      </h1>
+   ```
    
