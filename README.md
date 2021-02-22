@@ -82,7 +82,6 @@ Basic common HTML Tags:-
    - [x] **HTML Comments** are basically like Texts which is ignore by the Browers. 
    - [x] **Purpose of comments, Readability/Reminder of Code for ourself later or for others developers**
    - [x] ```<!-- 
-           
            -->```
    > Note:- **COMMENTS, The best practice of Writing Code!** 
    
