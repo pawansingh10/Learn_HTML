@@ -4,7 +4,8 @@ Hypertext Markup Language
 * HTML Tags
 * ".html" file Extension
 
-## TEXT EDITOR
+ ## HTML
+ __TEXT EDITOR__
 Notepad vs VSCode
 
 **hello.html**
@@ -20,6 +21,8 @@ Notepad vs VSCode
   </body>
   </html>
 ```
+
+## HTML FILE
 
 __Creating HTML File__
 1. Create  a Folder __HTML__
@@ -38,3 +41,35 @@ HTML Document
 <html></html>   Html Tag, Necessary for any html file
 <head></head>    Data About the document, like title,discription,image,link etc
 <body></body>
+<p></p>           paragraph Tag, contains text
+<title></title>   title Tag, conatin Title of website
+
+__Browsers__
+Browser is able to parse our websites and read the Tags & Figure out what is title, paragraph, image, link, heading, etc much more.
+
+__Indentation, visually help us to decide the relationship between the TAGS__
+__Parent Tag - Child Tag__
+
+## HTML TAGS
+Basic common HTML Tags:-
+1. Meta Tag, a tag that define information  about our file.
+   <meta charset="UTF-8">
+   <meta name="description" content="This website do something for you">
+   __Attributes or Properties__
+2. Body Tag, All the stuff we see on the websites generally inside body tag
+    <body>
+   <h1>This is the Header</h2>  header tag, Header(h1,h2,h3,h4,h5,h6) of our website
+   <p>This is paragraph</p>  paragraph tag, some text on websites
+   <b></b>   bold tag, style text as BOLD
+   <i></i>   itallic tag, style text as *itallic*
+   <p>Welcome TO <b>HTML</b></p>
+   <br/>  break tag, used for space
+   <hr/> hrizontal role tag, basically give us a straight line that helps to seperate contents on websites
+   big> </big>
+   small> <small/> using big nad small tag we can controll our text size
+   <sub></sub> subscript tag H2O-->H^2O
+   </body>
+   **Order of Tags Matters in body Tag** The way we order tags, render by the browsers
+   **HTML doesn't care about white space** because it's only care out what is inside in their tags
+   **Single Tag** that has only one tag like <br/>, <hr/>
+   
