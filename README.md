@@ -112,6 +112,14 @@ Basic common HTML Tags:-
    
    Using various HTML Tags  to Layout the Structure  of Website
    
-   >> ***Using Right tags at Right Place is Important***
+   > ***Using Right tags at Right Place is Important.***
+   
+   1. __Header__ || Every websites has a header like **Website Name, Logo, Navigation Menu, Links**
+   2. __Main Section__ || Back-Bone, All the contents like **Article, Sections, Images** 
+   3. __Footer__ || Websites has also a footer like **Navigation link, Copyright Info, Social-Media links**
+   
+   ***
+   **HTML has tags used to define all of these Header, Main and Footer**
+   ***
    
    
