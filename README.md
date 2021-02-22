@@ -108,5 +108,10 @@ Basic common HTML Tags:-
    [Learn HTML](https://www.w3schools.com/html/ "link")
    
    
+   ## Formatting a Page
+   
+   Using various HTML Tags  to Layout the Structure  of Website
+   
+   >> ***Using Right tags at Right Place is Important***
    
    
