@@ -100,7 +100,12 @@ Basic common HTML Tags:-
    
    > **Styling HTML, We learn CSS Cascading Style Sheet later on.**
    
+   || Color Name || Hex ||
+   ||--- ---||--- ---||
+   || Black || #000000||
+   
    [Learn HTML](https://www.w3schools.com/html/ "link")
+   
    
    
    
