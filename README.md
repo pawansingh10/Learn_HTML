@@ -281,3 +281,12 @@ Example- google.com
   ![ScreenShot1](youtube.png)
  
   ![Screenshot2](youtube2.png)
+  
+ ```
+     <body>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/khcxA7U_HsY" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen>
+           </iframe>
+     </body>
+ ```
