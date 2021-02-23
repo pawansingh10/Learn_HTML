@@ -230,5 +230,5 @@ Example- google.com
  ```
  > **px, pixel is a unit of measurement of size depending on the resolution of the screen.**
  
- > __Note In addtion to both the width and height, we can set either height or width. By setting anyone of them HTML automatically adjust the aspect ration of height and width.
+ > __Note In addtion to both the width and height, we can set either height or width. By setting anyone of them HTML automatically adjust the aspect ration of height and width.__
  
