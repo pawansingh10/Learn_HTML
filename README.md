@@ -354,9 +354,11 @@ Example- google.com
    ***
    * HTML provides us to display contents in the Tabular forms to the users by using differents tag
    * **table**  table
+   * **caption** caption of the table
    * **th** table header
    * **tr**  table row  (horizontal)
    * **td**  table data (vertical)
+  
         
    | Roll No| Name | Class|
    |--------|------|------|
@@ -366,26 +368,37 @@ Example- google.com
    
    ```
       <table>
-           <tr>
-               <th> Col 1 </th>
-               <th> Col 2 </th>
-               <th> Col 3 </th>
-           </tr>
-           <tr>
-               <td> One </td>
-               <td> Two </td>
-               <td> Three </td>
-           </tr>
-           <tr>
-               <td> Four </td>
-               <td> Five </td>
-               <td> Six </td>
-           </tr>
-           <tr>
-               <td> Seven </td>
-               <td> Eight </td>
-               <td> Nine </td>
-           </tr>
+          <thead>
+             <caption> List of Items </caption>
+             <tr>
+                <th> Col 1 </th>
+                <th> Col 2 </th>
+                <th> Col 3 </th>
+              </tr>
+           </thead>
+           <tbody>
+               <tr>
+                 <td> One </td>
+                 <td> Two </td>
+                 <td> Three </td>
+               </tr>
+               <tr>
+                 <td> Four </td>
+                 <td> Five </td>
+                 <td> Six </td>
+               </tr>
+               <tr>
+                 <td> Seven </td>
+                 <td> Eight </td>
+                < td> Nine </td>
+              </tr>
+          </tbody> 
       </table>
    ```
+   > **Tables are responsive or resizable or flexible to the screen**
    
+   * For Readability of code, we can use **thead** and **tbody**
+   * **colspan** attribute
+   ```
+       <td colspan="2">one</td>
+   ```
