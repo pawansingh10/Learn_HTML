@@ -246,22 +246,34 @@ Example- google.com
   ***
   Using **Videos from your device** + **Youtube Videos** on wensites
   
-  ##### introduction.mp4
-  ```
-    <body>
-       <video src="introduction.mp4"> introduction </video>
-    </body>
-  ```
-  * Make video playable use **controls** property
+  ### Local Videos
+     Working with file introduction.mp4
     ```
-      <video src="introduction.mp4" controls> introduction </video>
+       <body>
+           <video src="introduction.mp4"> introduction </video>
+       </body>
     ```
+  * Make video playable using **controls** property
+     ```
+          <video src="introduction.mp4" controls> introduction </video>
+     ```
   * **Resize the frame of video using  height and width attributes**
-  > ```
-  >  <video width="300" height="200" src="introduction.mp4" controls> Introduction </video>
-  > ```
+    > ```
+    >    <video width="300" height="200" src="introduction.mp4" controls> Introduction </video>
+    > ```
   
-* We can add **Thumbnail/poster** to our video using **poster** attribute
-  > ```
-  >    <video width="300" height="200" src="introduction.mp4" poster="thumbnail.png" controls> Introduction </video>
-  > ```
+  * We can add **Thumbnail/poster** to our video using **poster** attribute
+    > ```
+    >    <video width="300" height="200" src="introduction.mp4" poster="thumbnail.png" controls> Introduction </video>
+    > ```
+    
+  * **Autoplay** **loopinging** video using **autoplay** , **loop** attributes respectively
+    > ```
+    >    <video width="300" height="200" src="introduction.mp4" poster="thumbnail.png" autoplay controls> Introduction </video>
+    > ```
+  
+  ### YouTube Videos
+   Open any youtube video
+           Go to share option
+                 Embed
+  ! [] ()
