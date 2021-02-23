@@ -278,6 +278,6 @@ Example- google.com
        * clicked on Embed
        * copy iframe code        
                  
-  ![ScreenShot1](youtube.png){width=50%}
- \
-  ![Screenshot2](youtube2.png){width=50%}
+  ![ScreenShot1](youtube.png)
+ 
+  ![Screenshot2](youtube2.png)
