@@ -319,7 +319,7 @@ Example- google.com
     > We can give the types of numbering either 1 2 3 or A B C or a b c or i ii iii or I II III etc using **type** attribute
      ```
        <ol type="a">
-          <li>HTML</li>
+          <li><a href="#">HTML</a></li>
           <li>CSS</li>
           <li>JavaScript</li>
       </ol>
@@ -349,3 +349,43 @@ Example- google.com
         <dd> -- Discribe the Discription</dd>
       </dl>
       ```
+      
+   ## Tables in HTML
+   ***
+   * HTML provides us to display contents in the Tabular forms to the users by using differents tag
+   * **table**  table
+   * **th** table header
+   * **tr**  table row  (horizontal)
+   * **td**  table data (vertical)
+        
+   | Roll No| Name | Class|
+   |--------|------|------|
+   | 1      | Abc  | X    |
+   | 2      | Def  | XI   |
+   | 3      | Ghi  | XII  |
+   
+   ```
+      <table>
+           <tr>
+               <th> Col 1 </th>
+               <th> Col 2 </th>
+               <th> Col 3 </th>
+           </tr>
+           <tr>
+               <td> One </td>
+               <td> Two </td>
+               <td> Three </td>
+           </tr>
+           <tr>
+               <td> Four </td>
+               <td> Five </td>
+               <td> Six </td>
+           </tr>
+           <tr>
+               <td> Seven </td>
+               <td> Eight </td>
+               <td> Nine </td>
+           </tr>
+      </table>
+   ```
+   
