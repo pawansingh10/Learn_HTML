@@ -438,4 +438,16 @@ Example- google.com
          <div> Div2 </div> 
      ```
      
-    > **Styling HTML using span while Learning CSS**
+  > **Styling HTML using span while Learning CSS**
+  
+  ## Input and Forms in HTML
+  ***
+  Using Input tag in HTML,basically use to take input from user.
+  Use for Interaction with user
+  * **textbox**
+  * **textarea**
+  * **checkbox**
+  * **radiobutton**
+  
+  > **Note : Defining HTML Tags doesn't means It's Functional**
+  -[] In order to get information from the user through these textboxes we need a language called **JavaScript**
