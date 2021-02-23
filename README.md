@@ -429,11 +429,13 @@ Example- google.com
    ```
    These are inline css element
    
-   * **Note spans are inline container while divs are block container**
-    ```
-       <span> span1 </span>
-       <span> span1 </span>
-       <div> Div1 </div>
-       <div> DIV2 </div>
-    ```
+   * **Note : spans are inline container while divs are block container**
+   
+    ```html
+         <span> span1 </span>
+         <span> span1 </span>
+         <div> Div1 </div>
+         <div> Div2 </div> 
+     ```
+     
     > **Styling HTML using span while Learning CSS**
