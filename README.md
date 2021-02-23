@@ -1,11 +1,12 @@
 # HTML
+***
 Hypertext Markup Language
 * Technology/Language used to create Webpages
 * HTML Tags
 * ".html" file Extension
 
  ## HTML Introduction
- 
+ ***
  __TEXT EDITOR__
 Notepad vs VSCode
 
@@ -24,7 +25,7 @@ Notepad vs VSCode
 ```
 
 ## HTML FILE
-
+***
 __Creating HTML File__
 1. Create  a Folder __HTML__
 2. Create a file __index.html__
@@ -78,6 +79,7 @@ Basic common HTML Tags:-
    * **Single Tag** that has only one tag like <br/>, <hr/>
    
    ## HTML Comments
+   ***
    
    - [x] **HTML Comments** are basically like Texts which is ignore by the Browers. 
    - [x] **Purpose of comments, Readability/Reminder of Code for ourself later or for others developers**
@@ -109,10 +111,11 @@ Basic common HTML Tags:-
    
    
    ## Formatting a Page
+   ***
    
    Using various HTML Tags  to Layout the Structure  of Website
    
-   > ***Using Right tags at Right Place is Important.***
+   > **Using Right tags at Right Place is Important.**
    
    - [x] 1. __Header__ || Every websites has a header like **Website Name, Logo, Navigation Menu, Links**
    - [x] 2. __Main Section__ || Back-Bone, All the contents like **Article, Sections, Images** 
@@ -184,6 +187,7 @@ Basic common HTML Tags:-
    ```
    
 ## Links
+***
 Using Links in HTML
 * A Link is one of the most popular HTML Element, used to link a website to another website on the Intenet
 Example- google.com
@@ -211,6 +215,18 @@ Example- google.com
  ```
  **Here we only mention the file name because browsers already know this file is in the same directory.**
  
- 
- 
+ ## Images
+ ***
+ Using Images on websites, basics of working with Images
+ * Resizing Images
+ * Placing on our HTML Pages
+ __Image Tag___
+ ```
+      <img src="https://www.abc.com/a.png" alt="Alter of Img" />
+ ```
+ * One common problem with images are thier size differ, so we can resize Images.
+ ```
+      <img width="100" height="100" src="dice.png" alter="Dice Image"/>
+ ```
+ > **px, pixel is a unit of measurement of size on the screen.**
  
