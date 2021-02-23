@@ -500,5 +500,27 @@ Example- google.com
   
   ## Meta Tags in HTML
   ***
-  Meta tags live in head of HTML and head is used to define information about the file
+  * Meta tags live in head of HTML and head is used to define information about the file
+  * Meta tag is use for **meta data**
+  * Meta Data means Data about Data
+  ```
+      <meta charset="UTF="8">
+      <meta name="discription" content="Discription">
+      <meta name="author" content="Website Owner">
+      <meta name="keywords" content="HTML Course">
+      <meta  name="viewport" content="width=device-width, initial-scale=1.0"
+  ```
+  >  **A Good websites have discription, that is used by Search Engine in order to Page Ranking your websites by using what contents on your websites.**
   
+  >  **Discription should not be too long, It should below 200 characters.**
+  
+  >  **Search Engine also use the keywords** By using this pages get rank on google etc.
+  
+  >  **Viewport, Controls How your website display/render on different devices.** like DESKTOP View and MOBILE View
+  
+  ![Hurrah](https://media.giphy.com/media/l2JJIfI6nUkm5AzoQ/giphy.gif)
+  
+  
+  
+  ## Thank you!
+  ###### Yeah,Congrulations!! 
