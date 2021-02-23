@@ -402,3 +402,38 @@ Example- google.com
    ```
        <td colspan="2">one</td>
    ```
+   
+   
+   ## Divs and Spans in HTML
+   ***
+   * **Container** in HTML, basically a set of Tags that wraps up bunch of another tags.
+   * Generally While write HTML is recommended or good to wrap tags, because when we go to advance HTML we need this.
+   * Like CSS styling the element, your Wrapper tags only requires changes not all inside tags to be change
+   * Popular Container **div** and **span**
+   ###### Difference between div and span
+   **Two basic ways to display element**
+   1.**Block**
+   2.**Inline
+  
+   > **Block Element**, that take **entire width** of the page
+   ```
+      <p>Paragraph1</p>
+      <p>Paragraph2</p>
+   ```
+   These are block HTML element
+   
+   > **Inline Element**, that take **only that much need**
+   ```
+      <a href="#">Link1</a>
+      <a href="#">Link2</a>   
+   ```
+   These are inline css element
+   
+   * **Note spans are inline container while divs are block container**
+    ```
+       <span> span1 </span>
+       <span> span1 </span>
+       <div> Div1 </div>
+       <div> DIV2 </div>
+    ```
+    > **Styling HTML using span while Learning CSS**
