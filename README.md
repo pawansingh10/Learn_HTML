@@ -336,13 +336,13 @@ Example- google.com
      ```
   * **dl**   discription list
      Not popular, but if you want use where lists need discription
-     \Country
-        \India
-          \It is a democratic country
-        \USA
-          \It is a democratic country
-        \China
-           \It is a communist country
+     * Country
+        * India
+           * It is a democratic country
+        * USA
+           * It is a democratic country
+        * China
+           * It is a communist country
       ```
       <dl>
         <dt>Discription Term</dt>
