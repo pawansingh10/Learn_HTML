@@ -316,3 +316,36 @@ Example- google.com
           <li>JavaScript</li>
       </ol>
     ```
+    > We can give the types of numbering either 1 2 3 or A B C or a b c or i ii iii or I II III etc using **type** attribute
+     ```
+       <ol type="a">
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+      </ol>
+     ```
+     > We can make it nested also
+     ```
+           <li> Country
+               <ol>
+                  <li>India</li>
+                  <li>USA</li>
+                  <li>China</li>
+               </ol>
+           </li>
+     ```
+  * **dl**   discription list
+     Not popular, but if you want use where lists need discription
+     Country
+        India
+          It is a democratic country
+        USA
+          It is a democratic country
+        China
+           It is a communist country
+      ```
+      <dl>
+        <dt>Discription Term</dt>
+        <dd> -- Discribe the Discription</dd>
+      </dl>
+      ```
