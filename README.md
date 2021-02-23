@@ -53,6 +53,7 @@ __Indentation, visually help us to decide the relationship between the TAGS__
 __Parent Tag - Child Tag__
 
 ## HTML TAGS
+***
 Basic common HTML Tags:-
 1. Meta Tag, a tag that define information  about our file.
    <meta charset="UTF-8">
@@ -88,6 +89,7 @@ Basic common HTML Tags:-
    > Note:- **COMMENTS, The best practice of Writing Code!** 
    
    ## Style & Color
+   ***
    We can style HTML elements using **style** attributes through styling information\
    Basic Styling and set backround color to html elements
    ```
@@ -121,7 +123,7 @@ Basic common HTML Tags:-
    - [x] 2. __Main Section__ || Back-Bone, All the contents like **Article, Sections, Images** 
    - [x] 3. __Footer__ || Websites has also a footer like **Navigation link, Copyright Info, Social-Media links**
    
-   ***
+   
    **HTML has tags used to define all of these Header, Main and Footer**
    ***
    ```
@@ -159,6 +161,7 @@ Basic common HTML Tags:-
    ***
    
   **Advantages of Using the Specific HTMl Tags**
+  
   * Look and Feel
   * separate Section of websites.
   * Organised Code for anyone from the Organization use it.
@@ -232,9 +235,29 @@ Example- google.com
  
  > __Note In addtion to both the width and height, we can set either height or width. By setting anyone of them HTML automatically adjust the aspect ration of height and width.__
   
-  * __We can combine our image sto a link__
+  * __We can combine our images to a link__
   ```
      <a href="https://www.google.com">
         <img width="100" height="100" src="dice.png" alter="Dice Image Link"/>
      </a>
   ```
+  
+  ## Videos and YouTube iFrames
+  ***
+  Using **Videos from your device** + **Youtube Videos** on wensites
+  
+  ##### introduction.mp4
+  ```
+    <body>
+       <video src="introduction.mp4"> introduction </video>
+    </body>
+  ```
+  * Make video playable use **controls** property
+    ```
+      <video src="introduction.mp4"> introduction </video>
+    ```
+  * **Resize the frame of video using  height and width attributes**
+  > ```
+  >  <video width="300" height="200" src="introduction.mp4" controls> Introduction </video>
+  > ```
+  
