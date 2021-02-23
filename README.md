@@ -273,10 +273,10 @@ Example- google.com
     > ```
   
   ### YouTube Videos
-   Open any youtube video\
-           Go to share option\
+   Open any youtube video\           
+           Go to share option\                 
                  clicked on Embed\
-                      copy code\
+                      copy iframe code        
                  
   ![ScreenShot1](youtube.png)
   ![Screenshot2](youtube2.png)
