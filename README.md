@@ -254,10 +254,14 @@ Example- google.com
   ```
   * Make video playable use **controls** property
     ```
-      <video src="introduction.mp4"> introduction </video>
+      <video src="introduction.mp4" controls> introduction </video>
     ```
   * **Resize the frame of video using  height and width attributes**
   > ```
   >  <video width="300" height="200" src="introduction.mp4" controls> Introduction </video>
   > ```
   
+* We can add **Thumbnail/poster** to our video using **poster** attribute
+  > ```
+  >    <video width="300" height="200" src="introduction.mp4" poster="thumbnail.png" controls> Introduction </video>
+  > ```
