@@ -273,7 +273,10 @@ Example- google.com
     > ```
   
   ### YouTube Videos
-   Open any youtube video
-           Go to share option
-                 Embed
-  ! [] ()
+   Open any youtube video\
+           Go to share option\
+                 clicked on Embed\
+                      copy code\
+                 
+  ! [] (youtube.png)
+  ! [] (youtube1.png)
