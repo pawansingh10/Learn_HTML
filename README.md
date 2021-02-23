@@ -228,5 +228,7 @@ Example- google.com
  ```
       <img width="100" height="100" src="dice.png" alter="Dice Image"/>
  ```
- > **px, pixel is a unit of measurement of size on the screen.**
+ > **px, pixel is a unit of measurement of size depending on the resolution of the screen.**
+ 
+ > Note In addtion to both the width and height, we can set either height or width.\By setting anyone of them HTML automatically adjust the aspect ration of height and width.
  
