@@ -452,3 +452,37 @@ Example- google.com
   > **Note : Defining HTML Tags doesn't means It's Functional**
   
 - [x] In order to get information from the user through these textboxes we need a language called **JavaScript**
+  
+  ```
+     <input type="text" />
+     <input type="password" />
+     
+  ```
+  * Giving default value to input tag
+  ```
+     <input type="text" value="Enter name"/>
+     <input type="password" value="Enter password" />
+  ```
+  * **text, password, number, date, email, range, file, checkbox, radiobutton etc**
+  * TextArea
+  ```
+      <textarea rows="5" cols="7">
+             Enter a paragraph
+      </textarea>
+  ```
+  * Radiobutton
+  ```
+     <input name="btn" type="radio" />
+     <input name="btn" type="radio" />  
+  ```
+  * Submit 
+  ```
+     <input name="btn" type="submit" />
+  ```
+  ###### Form
+  Form is basically used to store all the inputs.
+  ```
+      <form>
+           <input type="text" />
+      </form>
+  ```
