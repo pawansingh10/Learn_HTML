@@ -486,3 +486,19 @@ Example- google.com
            <input type="text" />
       </form>
   ```
+  ## iFrames in HTML
+  ***
+  iFrame, HTML element able to display another website inside your webpage.
+  * **Creating iFrame Tag**
+     ```
+       <body>
+           <iframe src="https://ww3.com/" frameborder="0" width="500" height="300">Sorry, Broweser can't display iframe</iframe>
+       </body>
+     ```
+  > **Note : Most of the website are not allow to use their website inside iFrame**
+  > Beacuse someome iFrame another website and make illusion and take the data of their users.
+  
+  ## Meta Tags in HTML
+  ***
+  Meta tags live in head of HTML and head is used to define information about the file
+  
