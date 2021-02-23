@@ -290,3 +290,29 @@ Example- google.com
            </iframe>
      </body>
  ```
+ 
+ ## Lists in HTML
+ ***
+ Creating List in HTML, using different tags
+ * **ul**  unordered List
+    ``` 
+      <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+      </ul>
+    ```
+    > We can add more functionality to our lists
+    ```
+      <li><a href="#">HTML</a></li>
+      <li><a href="#">CSS</a></li>
+      <li><a href="#">JavaScript</a></li>
+    ```
+ * **ol**  ordered list
+    ```
+      <ol>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+      </ol>
+    ```
