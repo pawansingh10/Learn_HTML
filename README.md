@@ -444,10 +444,11 @@ Example- google.com
   ***
   Using Input tag in HTML,basically use to take input from user.
   Use for Interaction with user
-  * **textbox**
-  * **textarea**
-  * **checkbox**
-  * **radiobutton**
+  * **TextBox**
+  * **TextArea**
+  * **CheckBox**
+  * **RadioButton**
   
   > **Note : Defining HTML Tags doesn't means It's Functional**
-  -[] In order to get information from the user through these textboxes we need a language called **JavaScript**
+  
+- [x] In order to get information from the user through these textboxes we need a language called **JavaScript**
