@@ -278,5 +278,5 @@ Example- google.com
                  clicked on Embed\
                       copy code\
                  
-  ! [] (youtube.png)
-  ! [] (youtube1.png)
+  ![ScreenShot1](youtube.png)
+  ![Screenshot2](youtube1.png)
