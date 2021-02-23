@@ -231,4 +231,10 @@ Example- google.com
  > **px, pixel is a unit of measurement of size depending on the resolution of the screen.**
  
  > __Note In addtion to both the width and height, we can set either height or width. By setting anyone of them HTML automatically adjust the aspect ration of height and width.__
- 
+  
+  * __We can combine our image sto a link__
+  ```
+     <a href="https://www.google.com">
+        <img width="100" height="100" src="dice.png" alter="Dice Image Link"/>
+     </a>
+  ```
